@@ -1,0 +1,7 @@
+streamlit
+numpy
+pandas
+matplotlib
+pillow
+torch==2.1.0
+torchvision
