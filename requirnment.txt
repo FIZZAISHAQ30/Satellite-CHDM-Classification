@@ -5,3 +5,11 @@ matplotlib
 pillow
 torch==2.1.0
 torchvision
+streamlit
+torch
+torchvision
+pandas
+matplotlib
+numpy
+scikit-learn
+Pillow
